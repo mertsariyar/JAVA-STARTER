@@ -1,0 +1,61 @@
+Topics:
+
+Control Flow Statements
+
+Comments & Escape Sequences
+Variables
+Primitive Castings, Concatenation, Arithmetic
+Operators, Unary, Shorthand, Relational, Logical
+Single If, If & Else
+Multi-branch if, Nested If, Recap
+Ternaries
+Switch
+Methods & Loops
+
+Scanner
+String Methods
+If, Switch, Scanner
+Custom Methods (Void, Parameter, Return, Overloading)
+While & Do-While Loops
+Nested Loops
+Arrays & Arraylists
+
+Arrays Utility, For Each
+Multi-dimensional Array + Array & Loops
+Wrapper Classes
+ArrayList
+Collections Utility
+LocalDate, LocalTime, LocalDateTime
+Class & Object
+
+Garbage Collections, Memory, String object 
+Custom Class - Constructors, chainings
+Statics Members, Static vs Instance
+Access Modifiers & Custom Class Practices
+OOP (Object Oriented Programming)
+
+OOP Encapsulation
+OOP Inheritance - Extends
+Constructor, Protected Access Modifiers
+Overriding
+Final Keyword
+Abstraction - Abstract class & Abstract method
+Interface
+Inheritance & Abstraction
+OOP Polymorphism
+Reference Type Castings
+Exceptions & Exception Handlings
+
+Exceptions & Exception Handling
+Collection & Map
+
+Collection
+List, Set, Queue
+Iterable and Extra
+Maps
+HashMap
+LinkedHashMap
+TreeMap
+HashTable
+Iterating Maps
+List of Maps 
