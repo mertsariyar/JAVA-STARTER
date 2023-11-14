@@ -8,8 +8,7 @@ public class test11 {
         System.out.println("Lütfen sayınızı girin: ");
         int n = input.nextInt();
         boolean isPrime = true;
-
-        for(int i = 2; i<n; i++) {
+        for(int i = 3; i<n; i++) {
             if(n%i==0) {
                 isPrime = false;
             }
@@ -23,5 +22,10 @@ public class test11 {
         
         }
 
-
+        /*
+         *  10 == 10 - 1 = 9 10 % 9 == 1
+         * 10 % 8 == 0
+         * 10 %7 == 0
+         *
+         */
     }

@@ -11,8 +11,6 @@ public class test10 {
         int u = input.nextInt();
         int total = 1;
 
-    
-
         for(int i = 1; i<=u; i++) {
             total *= k;
             System.out.println(total);
