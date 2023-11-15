@@ -12,8 +12,6 @@ public class mukemmelSayi {
                 toplam += i;
             }
         }
-
-
         if(a == toplam) {
             System.out.println("Bu sayı mükemmel sayıdır.");
         }else {
