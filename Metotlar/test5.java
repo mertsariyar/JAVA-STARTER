@@ -7,9 +7,7 @@ public class test5 {
     
     public static void main(String[] args) {
         // 1 1 2 3 5 8 13 21 ... şeklinde giden sayılardır
-        for(int i = 0; i<10; i++) {
-        System.out.println(fib(i));
+        System.out.println(fib(10));
 
-        }
     }
 }
