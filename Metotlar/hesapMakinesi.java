@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class hesapMakinesi {
     static int sum(int a, int b) {
         return a + b;
@@ -31,14 +30,9 @@ public class hesapMakinesi {
         int cevRe = a * b;
         return cevRe;
     }
-    
-
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int select;
-        
-        
-
         String menu = "1- Toplama İşlemi\n"
                     + "2- Çıkarma İşlemi\n"
                     + "3- Çarpma İşlemi\n"
@@ -48,7 +42,6 @@ public class hesapMakinesi {
                     + "7- Dikdörtgen Alan ve Çevre Hesabı\n"
                     + "8- Çıkış Yap";
                     System.out.println(menu);
-
                    while(true) {
                         System.out.println("Bir işlem seçiniz : ");
                         select = scan.nextInt();
